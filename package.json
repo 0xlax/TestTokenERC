@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/harshithlaxman/TestTokenERC#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.2.0"
+    "@openzeppelin/contracts": "^4.2.0",
+    "hardhat": "^2.4.1",
+    "truffle": "^5.3.14"
   }
 }
