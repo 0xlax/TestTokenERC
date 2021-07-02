@@ -20,5 +20,9 @@
     "@openzeppelin/contracts": "^4.2.0",
     "hardhat": "^2.4.1",
     "truffle": "^5.3.14"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.4.0"
   }
 }

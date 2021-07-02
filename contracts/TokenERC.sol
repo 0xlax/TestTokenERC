@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.0;
 
-import "../node_modules/@openzepelin/contracts/accessOwnable.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
 
 import "./Auth.sol";
 contract Box is Ownable {
